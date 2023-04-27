@@ -1,0 +1,5 @@
+- 👋 Hi, I’m milochana Rathnayake
+- 👀 I’m interested in Data Analysis, Business Intelligence field.
+- 🌱 Currently I'm doing my MBA at university of West London.
+- 💞️ I’m looking to collaborate on data science projects. Special in Business Intelligence
+- 📫 Reach me milochanalive@gmail.com
